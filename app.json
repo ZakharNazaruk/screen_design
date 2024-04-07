@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.zahar.nazaruk.screen_design"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a1ba9b3c-1767-4948-a7b7-ed2be5e5e26c"
+      }
+    },
+    "owner": "zahar.nazaruk"
   }
 }
